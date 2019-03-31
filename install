@@ -1,3 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
 cd src/
 npm install
+cd ..
+sudo chmod 777 $(pwd)/run
