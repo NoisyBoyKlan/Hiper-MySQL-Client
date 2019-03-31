@@ -9,7 +9,10 @@ $ cd Hiper-MySQL-Client/
 \# chmod 777 run
 
 ## Executando
+### Modo simples
 $ ./run
+### Modo avançado (Leia instruções)
+$ ./run [parâmetros]
 
 ## Instruções
 Você pode configurar scripts com instruções para o Hiperesp MySQL Client.
