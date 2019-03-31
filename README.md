@@ -6,7 +6,9 @@ $ git clone https://github.com/hiperesp/Hiper-MySQL-Client.git
 
 $ cd Hiper-MySQL-Client/
 
-\# chmod 777 run
+\# chmod 777 install
+
+$ ./install
 
 ## Executando
 ### Modo simples
