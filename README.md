@@ -1,6 +1,10 @@
 # Hiperesp MySQL Client por Hiperesp
 Um cliente MySQL em node.js
 
+## Pré-instalação
+### ArchLinux
+\# pacman -S git node npm
+
 ## Instalando
 $ git clone https://github.com/hiperesp/Hiper-MySQL-Client.git
 
