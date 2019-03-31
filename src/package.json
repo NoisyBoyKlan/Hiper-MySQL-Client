@@ -1,0 +1,22 @@
+{
+  "name": "mysql_client",
+  "version": "0.0.1",
+  "description": "Hiperesp MySQL Client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mysql",
+    "client",
+    "javascript",
+    "nodejs",
+    "mariadb",
+    "maria"
+  ],
+  "author": "Gabriel Lopes Ferreira Ramos (hiperesp)",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
