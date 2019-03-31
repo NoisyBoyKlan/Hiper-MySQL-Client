@@ -4,7 +4,7 @@ Um cliente MySQL em node.js
 ## Instalando
 $ git clone https://github.com/hiperesp/Hiper-MySQL-Client.git
 
-$ cd Hiper-MySQL-Client
+$ cd Hiper-MySQL-Client/
 
 \# chmod 777 run
 
