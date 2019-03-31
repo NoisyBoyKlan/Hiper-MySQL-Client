@@ -156,6 +156,8 @@ function query(command, callback) {
     } else {
       print("Você não pode executar instruções SQL sem iniciar uma conexão.");
     }
+  } else {
+    print("Você não pode executar instruções SQL sem iniciar uma conexão.");
   }
   if(callback) callback();
 }
