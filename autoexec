@@ -1,0 +1,33 @@
+clear
+# Digite 'help' para mais informações
+# Use dois espaços '  ' para omitir um parâmetro.
+# Documentação: "connect [host=localhost] [user=''] [password=''] [database='']"
+# Caso a senha esteja em branco, use dessa forma:
+# Exemplo: 'connect 127.0.0.1 root  database'
+# Caso a senha esteja em branco e não deseja conectar a um banco, use dessa forma:
+# Exemplo: 'connect 127.0.0.1 root'
+# Caso o servidor seja localhost, o usuário esteja em branco, a senha em branco e o banco de dados em branco, use:
+# Exemplo: 'connect'
+
+# To do:
+# Auto update
+
+print
+print Hiperesp MySQL Client por Hiperesp <github.com/hiperesp>
+print
+print Você pode configurar scripts com instruções para o Hiperesp MySQL Client.
+print Crie arquivos com quaisquer nomes contendo as instruções para serem executadas.
+print Após criar, execute digitando exec <nomedoarquivo>
+print
+print Para desativar o autoexec, inicie com o parâmetro "-autoexec".
+print Exemplo: './run -autoexec'
+print
+print Para forçar o autoexec, independente da configuração padrão, inicie com o parâmetro "+autoexec".
+print Exemplo: './run +autoexec'
+print
+print Para iniciar múltiplos arquivos (similar a múltiplos "autoexec"), você pode adicionar o parâmetro "exec", seguido de arquivos.
+print Exemplo: './run -autoexec exec script1 script2 script3 script4'
+print
+print Digite 'help' para mais informações.
+connect
+
