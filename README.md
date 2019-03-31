@@ -9,6 +9,9 @@ $ cd Hiper-MySQL-Client/
 \# chmod 777 run
 
 ## Executando
+$ ./run
+
+## Instruções
 Você pode configurar scripts com instruções para o Hiperesp MySQL Client.
 Crie arquivos com quaisquer nomes contendo as instruções para serem executadas.
 Após criar, execute digitando exec <nomedoarquivo>
