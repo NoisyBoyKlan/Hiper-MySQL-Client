@@ -1,4 +1,4 @@
-# Hiperesp MySQL Client por Hiperesp
+# Hyper MySQL Client
 Um cliente MySQL em node.js
 
 ## Pré-instalação
@@ -21,7 +21,7 @@ $ ./run
 $ ./run [parâmetros]
 
 ## Instruções
-Você pode configurar scripts com instruções para o Hiperesp MySQL Client.
+Você pode configurar scripts com instruções para o Hyper MySQL Client.
 Crie arquivos com quaisquer nomes contendo as instruções para serem executadas.
 Após criar, execute digitando exec <nomedoarquivo>
 
